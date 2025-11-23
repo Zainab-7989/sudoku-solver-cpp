@@ -1,0 +1,29 @@
+# Build directories
+build/
+bin/
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Dependencies
+*.d
+*.dll
+*.so
+*.dylib
+
+# IDE files
+.vscode/
+*.code-workspace
+*.sln
+*.vcxproj*
+CMakeSettings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
